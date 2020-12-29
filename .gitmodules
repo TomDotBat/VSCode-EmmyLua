@@ -1,0 +1,3 @@
+[submodule "res/std/gmod"]
+	path = res/std/gmod
+	url = git@github.com:Lexicality/libgmod.git
